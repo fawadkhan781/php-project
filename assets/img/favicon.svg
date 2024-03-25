@@ -1,0 +1,41 @@
+<svg id="Dots" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2400" height="2400" viewBox="0 0 2400 2400">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: #035d8f;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #dd0708;
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-4 {
+        filter: url(#filter);
+      }
+
+      .cls-5 {
+        fill: #810505;
+        opacity: 0.72;
+      }
+    </style>
+    <filter id="filter" x="497" y="836" width="718.16" height="1101.13" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dx="13.703" dy="6.101" in="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="flood" flood-opacity="0.53"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect class="cls-1" x="1700" y="664" width="92" height="92"/>
+  <rect id="Rectangle_1_copy" data-name="Rectangle 1 copy" class="cls-1" x="1792" y="752" width="92" height="92"/>
+  <rect id="Rectangle_1_copy_2" data-name="Rectangle 1 copy 2" class="cls-1" x="1840" y="616" width="92" height="92"/>
+  <path id="Left_side" data-name="Left side" class="cls-2" d="M1616,1840l-20,196-352,196L232,1724V684L656,484,552,284,8,600l8,1200,1240,588,540-260"/>
+  <path id="Right_Side" data-name="Right Side" class="cls-2" d="M774,556l20-196,352-196L2158,672V1712l-424,200,116.04,200L2382,1796l-8-1200L1134,8,606.04,268"/>
+  <path class="cls-3" d="M1732,804h-60s8-32-4-32-480-8-480-8l-20,80L980,1832l104-4,236-872,400-12Z"/>
+  <path class="cls-4" d="M516,1052l468,16L768,1892s-20,40,0,44,192-4,192-4L1208,884s24-28-16-32-680-16-680-16Z"/>
+  <path class="cls-5" d="M864,1060L521.524,844,516,1048Z"/>
+</svg>
