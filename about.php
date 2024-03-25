@@ -254,7 +254,7 @@
               <img src="assets/img/team/team-6.jpg" class="img-fluid w-75 rounded-circle" alt="">
             </div>
             <div class="member-info text-center">
-              <h4>Demi Lewis</h4>
+              <h4>Demi Lewis New</h4>
               <span>Financing</span>
               <p>Amet labore numquam corrupti est. Nostrum amet voluptas consectetur dolor voluptatem architecto distinctio consequuntur eligendi. Quam impedit enim aut nesciunt aut dicta quam exercitationem. Reprehenderit exercitationem magnam. Ullam similique ut voluptas totam nobis porro accusamus nulla omnis.</p>
             </div>
