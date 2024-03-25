@@ -58,7 +58,7 @@
                   i-9/3 Street <br />
                   islamabad, NY 535022<br />
                   pakistan <br />
-                  <strong>Phone:</strong> 3434343434<br />
+                  <strong>Phone Number:</strong> 3434343434<br />
                   <strong>Email:</strong> Atlantis@gmail.com<br />
                 </p>
 
